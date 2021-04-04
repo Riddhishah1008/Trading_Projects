@@ -11,3 +11,4 @@ Repository of some of the trading projects I have worked on. You can find codes 
 7. Example of a strategy with backtested results as well as it's real time implementation
 8. Implementation of certain price prediction techniques using LSTM, Statistical Arbitrage (Pairs Trading), etc.
 9. Webscraping using Selenium to fetch free online prices from TradingView website
+10. Sending trades executed as messages via Telegram Bot
