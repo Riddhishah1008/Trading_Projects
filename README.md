@@ -1,6 +1,6 @@
 # Trading_Projects
 
-Repository of some of the trading projects I have worked on. You can find codes to do the following:
+Repository of some of the trading projects I have worked on. You can find codes to perform the following tasks:
 
 1. Event Based Backtesting
 2. Vectorised Backtesting
