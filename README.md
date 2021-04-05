@@ -10,5 +10,5 @@ Repository of some of the trading projects I have worked on. You can find codes 
 6. An end-to-end trading engine with a pipeline to get historical and live data, feed in your strategy, and execute orders real time based on the strategy
 7. Example of a strategy with backtested results as well as it's real time implementation
 8. Implementation of certain price prediction techniques using LSTM Neural Networks, Statistical Arbitrage (Pairs Trading), etc.
-9. Webscraping using Selenium to fetch free online prices from TradingView website
+9. Webscraping using Selenium to fetch free live prices from TradingView website
 10. Sending trades executed as messages via Telegram Bot
