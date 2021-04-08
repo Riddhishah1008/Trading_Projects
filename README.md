@@ -9,6 +9,6 @@ Repository of some of the trading projects I have worked on. You can find codes 
 5. Order Management - Place trading orders based on your strategy with Fyers broker
 6. An end-to-end trading engine with a pipeline to get historical and live data, feed in your strategy, and execute orders real time based on the strategy
 7. Example of a strategy with backtested results as well as it's real time implementation
-8. Implementation of certain price prediction techniques using LSTM Neural Networks, Statistical Arbitrage (Pairs Trading), etc.
+8. Implementation of certain price prediction techniques using ARIMA, LSTM Neural Networks, Statistical Arbitrage (Pairs Trading), etc.
 9. Webscraping using Selenium to fetch free live prices from TradingView website
 10. Notifying about executed trades as messages via Telegram Bot
