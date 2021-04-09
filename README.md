@@ -1,4 +1,4 @@
-# Trading_Projects
+# Trading Projects
 
 Repository of some of the trading projects I have worked on. You can find codes to perform the following tasks:
 
