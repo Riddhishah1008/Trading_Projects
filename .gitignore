@@ -127,13 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Ommiting the datafiles from the models and datasets repo
-models/*
-datasets/*
-!models/*.md
-!models/*.sh
-!models/*.py
-!datasets/*.md
-!datasets/*.sh
-!datasets/*.py
